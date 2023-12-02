@@ -2,10 +2,8 @@
 
 "Deep Learning with PyTorch: Zero to GANs" is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework. Enroll now to start learning.
 
-- Watch live hands-on tutorials on YouTube
 - Train models on cloud Jupyter notebooks
 - Build an end-to-end real-world course project
-- Earn a verified certificate of accomplishment
 
 ## Course Outline
 
