@@ -13,7 +13,7 @@
 - PyTorch basics: tensors, gradients, and autograd
 - Linear regression & gradient descent from scratch
 - Using PyTorch modules: nn.Linear & nn.functional
-- [Assignment 1 - All About torch.Tensor](link_to_assignment_1)
+- [Assignment 1 - All About torch.Tensor](https://github.com/dedeha39/Deep-Learning-with-PyTorch-Zero-to-GANs/blob/main/Lesson%201%20-%20PyTorch%20Basics%20and%20Gradient%20Descent/Assignmenr_01-tensor-operations.ipynb)
 
 ### Lesson 2 - Working with Images and Logistic Regression
 - Training-validation split on the MNIST dataset
