@@ -17,13 +17,13 @@
 - Training-validation split on the MNIST dataset
 - Logistic regression, softmax & cross-entropy
 - Model training, evaluation & sample predictions
-- [Assignment 2 - Train Your First Model](link_to_assignment_2)
+- [Assignment 2 - Train Your First Model]([link_to_assignment_2](https://github.com/dedeha39/Deep-Learning-with-PyTorch-Zero-to-GANs/blob/main/Lesson%202%20-%20Working%20with%20Images%20and%20Logistic%20Regression/Assignment_02-insurance-linear-regression.ipynb))
 
 ### Lesson 3 - Training Deep Neural Networks on a GPU
 - Multilayer neural networks using nn.Module
 - Activation functions, non-linearity & backprop
 - Training models faster using cloud GPUs
-- [Assignment 3 - Feed Forward Neural Networks](link_to_assignment_3)
+- [Assignment 3 - Feed Forward Neural Networks]([link_to_assignment_3](https://github.com/dedeha39/Deep-Learning-with-PyTorch-Zero-to-GANs/blob/main/Lesson%203%20-%20Training%20Deep%20Neural%20Networks%20on%20a%20GPU/Assignment_03-cifar10-feedforward.ipynb))
 
 ### Lesson 4 - Image Classification with Convolutional Neural Networks
 - Working with 3-channel RGB images
